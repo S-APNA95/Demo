@@ -4,3 +4,5 @@ calling feature added
 messaging feature added
 
 call added
+
+photos added
